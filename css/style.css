@@ -1,0 +1,91 @@
+.warna1 {
+    background-color: #876445;
+
+}
+
+.warna2{
+    background-color: #ca965c;
+}
+
+.warna3{
+    background-color: #eec373;
+}
+
+.warna4{
+    background-color: #f4dfba;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/opugLxn8J7krZlJjuypn.jpg');
+}
+
+.highlighted-kategori{
+    
+    height: 250px;
+}
+
+.kategori-baju-pria{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/tobio.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-Sneakers{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/magnet-timberwolf.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-Album{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/olivia.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #ca965c;
+}
+
+.text-harga{
+    font-size: 20px;
+}
+
+.image-box{
+    height: 400px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
+.content-subscribe{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+    color: white;
+}
+
+.banner-produk{
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/kenma.jpg');
+    background-position: 50% 30%;
+}
+
+.image-box2 img {
+    height: 100%;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
+
+
